@@ -1,0 +1,5 @@
+---
+title: "Genesis Core"
+plugins: [jekyll-seo-tag]
+markdown: kramdown
+---
